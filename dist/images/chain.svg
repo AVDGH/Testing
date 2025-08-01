@@ -1,6 +1,0 @@
-<svg width="48" height="120" viewBox="0 0 48 120" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#1f2937" stroke-width="3">
-  <!-- First elliptical link -->
-  <ellipse cx="24" cy="30" rx="18" ry="24"></ellipse>
-  <!-- Second elliptical link -->
-  <ellipse cx="24" cy="90" rx="18" ry="24"></ellipse>
-</svg>
