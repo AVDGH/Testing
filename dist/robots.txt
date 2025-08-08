@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avdgh.github.io/Testing/sitemap-index.xml
